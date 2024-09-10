@@ -34,4 +34,4 @@ Please make sure to update tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Recording
-[Demo recording]()
+[Demo recording](https://app.screencastify.com/v3/watch/k4Yer0SdRQJcwckdlSHk)
