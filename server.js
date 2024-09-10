@@ -2,7 +2,7 @@ const express = require('express');
 const routes = require('./routes');
 const db = require('./config/connection');
 
-cwd = process.cwd
+cwd = process.cwd();
 
 const app = express();
 const PORT = process.env.PORT || 3001;
